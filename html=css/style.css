@@ -1,0 +1,104 @@
+.brown{
+    color:blueviolet;
+}
+.red{
+    color:red
+}
+.blue{
+    color: rgb(0, 0, 255);
+}
+.green{
+    color: #00ff00;
+}
+
+/* task2 */
+
+.px{
+    font-size: 18px;
+}
+.dx{
+    font-size: 30px;
+color: gray;
+}
+.xd{
+color: navy;
+font-size: 1.5em;
+font-family: 'Franklin Gothic Medium'
+}
+.purple{
+color: purple;
+font-size: 25px;
+font-style: italic;
+font-family: cursive;
+
+}
+
+
+/* task3 */
+
+#العنوان{
+
+    text-align: center;
+    text-decoration:  underline
+
+}
+.الخط{
+    text-decoration: underline;
+}
+.شطب{
+
+    text-decoration: line-through;
+}
+/* task3 */
+#العنوان-التاني{
+
+color: red;
+text-decoration: underline;
+
+}
+
+
+.تغميق{
+
+text-decoration:line-through;
+
+font-weight: bold;
+
+}
+/* task4 */
+.العنوان-الاول{
+
+text-align: center;
+color: white;
+background-color: rgb(12, 35, 79);
+}
+.cccc{
+    text-align: center;
+    background-color: rgb(12, 34, 79);
+    color: white;
+}
+
+.redd{
+
+color: red;
+text-transform: uppercase
+
+}
+
+/* task5 */
+.centar{
+
+text-align: center;
+
+}
+.line{
+
+color: red;
+
+text-decoration: underline;
+}
+.im{
+    position: absolute;
+    color: red;
+    background-color: yellow;
+}
