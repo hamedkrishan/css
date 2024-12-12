@@ -1,0 +1,17 @@
+.centar{
+
+    text-align: center;
+    
+    }
+    .line{
+    
+    color: red;
+    
+    text-decoration: underline;
+    }
+    .im{
+        position: absolute;
+        color: red;
+        background-color: yellow;
+    }
+    
